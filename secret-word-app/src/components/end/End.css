@@ -1,0 +1,26 @@
+.end {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.end h1 {
+  font-size: 3.5em;
+  margin: 0;
+}
+
+.end h1 span {
+  color: #2082fd;
+}
+
+.end h2 {
+  font-weight: 500;
+  color: #6e6e6e;
+}
+
+.end h2 span {
+  font-weight: bold;
+  color: #272727;
+}
